@@ -4,11 +4,9 @@
   display: none;
 }
 
-/*div#wall #tag-2 {*/
-/*  background: none;*/
-/*  z-index: 6;*/
-/*  display: block;*/
-/*}*/
+div#wall #tag-2 {
+  background: none;
+}
 
 /*#wall #tag-3 {*/
 /*  display: none;*/
