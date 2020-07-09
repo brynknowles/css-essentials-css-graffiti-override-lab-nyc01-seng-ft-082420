@@ -8,9 +8,9 @@ div#wall #tag-2 {
   background: none;
 }
 
-/*#wall #tag-3 {*/
-/*  display: none;*/
-/*}*/
+div#wall #tag-3.slick-wicked {
+  display: none;
+}
 
 /*.parent #tag-4 {*/
 /*  display: none;*/
